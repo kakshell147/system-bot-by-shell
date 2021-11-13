@@ -1,9 +1,10 @@
 # Shark System Project
 
-# ** أفضل بوت سستم ** 
+# **system bot ** 
 
-_ رابط الشرح : https://www.youtube.com/channel/UCLnTum7CwUqHfB_oJxOErFw _ 
+# by shell
+ 
+# mayka he xhot ba dasti xhom nusrawa
 
-
-_ رابط سيرفر اوتاوا : https://discord.gg/gG7Nw6N5X8  _
+ :  LINK SERVER https://discord.gg/ttx9b2YcaP _
 
