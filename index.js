@@ -30,7 +30,7 @@ const db = require('quick.db')
   
      
      [Invite](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=268855550)
-     [Support](رابط سيرفر السبورت)**`)
+     [Support](server link)**`)
   
   
   .setFooter(`Require by ${msg.author.username}`)
@@ -151,7 +151,7 @@ const db = require('quick.db')
           SEND_MESSAGES: false
         })
         .then(() => {
-          message.channel.send(`** تـم قفـل الـروم 🔒**`);
+          message.channel.send(`** lock room🔒**`);
         });
     }
   });
@@ -168,7 +168,7 @@ const db = require('quick.db')
           SEND_MESSAGES: true
         })
         .then(() => {
-          message.channel.send(`** تـم فتـح الـروم 🔓**`);
+          message.channel.send(`** unlock room 🔓**`);
         });
     }
   });
@@ -186,7 +186,7 @@ const db = require('quick.db')
           VIEW_CHANNEL: false
         })
         .then(() => {
-          message.channel.send(`** تـم اخفاء الـروم 🔒**`);
+          message.channel.send(`** hide room 🔒**`);
         });
     }
   });
@@ -203,7 +203,7 @@ const db = require('quick.db')
           VIEW_CHANNEL: true
         })
         .then(() => {
-          message.channel.send(`** تـم اظهار الـروم 🔓**`);
+          message.channel.send(`** show room 🔓**`);
         });
     }
   });
@@ -432,7 +432,7 @@ user.roles.remove(role)
 
   client.on('message' , message => {
   if(message.content.startsWith(prefix + 'warn')){
-    if(!message.member.hasPermission('ADMINSTARTOR')) return message.channel.send(`**حرك ولك**`)
+    if(!message.member.hasPermission('ADMINSTARTOR')) return message.channel.send(`**ba dle xhot shtek bnusa**`)
 
   var user = message.mentions.members.first();
  var reason = message.content.split(' ').slice(2).join(" ");
@@ -482,3 +482,11 @@ client.on('message' , message => {
   
 
 client.login("");
+
+
+
+
+///// code by shell////
+
+
+
