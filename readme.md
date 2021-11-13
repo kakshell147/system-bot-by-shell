@@ -1,6 +1,4 @@
-# Shark System Project
-
-# **system bot ** 
+#  System Project
 
 # by shell
  
