@@ -486,7 +486,7 @@ client.login("");
 
 
 
-///// code by shell////
+///// code by polat bot////
 
 
 
